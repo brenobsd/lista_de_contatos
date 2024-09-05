@@ -1,0 +1,20 @@
+html,
+body{
+    height: 100%;
+}
+
+body{
+    background-color: rgb(79, 216, 244);
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+}
+.title_body{
+    color: rgb(0, 17, 255);
+}
+
